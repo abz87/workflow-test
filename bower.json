@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "description": "test project",
+  "main": "",
+  "authors": [
+    "Abdul Rehman"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "angular": "^1.6.4"
+  }
+}
